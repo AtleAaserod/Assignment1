@@ -15,7 +15,7 @@ group123 Atle Aaserød, Trym Dullum and Daniel Nygård
 5. Keep the solution as simple as possible. We are not looking for the best machine learning algorithm. We are interested in seeing that you know how to work with machine learning.
 -  Vedlegg
 
-grup 123 Atle Aaserød, Trym Dullum and Daniel Nygård
+group 123 Atle Aaserød, Trym Dullum and Daniel Nygård
 
 Vi begynte med å bruke Long Short Term Memory (LSTM) men der fikk vi store problemer med å bruke både NumPy og Tensor. Numpy klarte ikke å lese symoblic tensor så da endte vi opp med å bruke en modifisert versjon av lab 4. 
 
