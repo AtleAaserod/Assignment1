@@ -16,3 +16,8 @@ group123 Atle Aaserød, Trym Dullum and Daniel Nygård
 -  Vedlegg
 
 grup 123 Atle Aaserød, Trym Dullum and Daniel Nygård
+
+Vi begynte med å bruke Long Short Term Memory (LSTM) men der fikk vi store problemer med å bruke både NumPy og Tensor. Numpy klarte ikke å lese symoblic tensor så da endte vi opp med å bruke en modifisert versjon av lab 4. 
+
+Endte alltid opp med denne feilkoden. Etter mye leting virker det som det er probleremer med nyeste versjon av NumPy
+NotImplementedError: Cannot convert a symbolic Tensor (lstm_15/strided_slice:0) to a numpy array. This error may indicate that you're trying to pass a Tensor to a NumPy call, which is not supported
