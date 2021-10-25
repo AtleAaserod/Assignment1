@@ -9,7 +9,7 @@ group123 Atle Aaserød, Trym Dullum and Daniel Nygård
 2. Explore and research which algorithm would work best for this use case (regression or classification)
 - Vi mener regression passer best for vår oppgave da denne formen er best for priser osv.
 3. Document your findings in a file (3-5 lines) on why you chose this algorithm.
-- 
+- Vi tenkte å bruke LSTM men denne ville ikke fungere(forklart nederst i teksten). Vi endte da med å bruke lineær regreson. 
 4. Train the algorithm using Python
 -  Vedlegg
 5. Keep the solution as simple as possible. We are not looking for the best machine learning algorithm. We are interested in seeing that you know how to work with machine learning.
