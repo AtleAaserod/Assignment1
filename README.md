@@ -21,3 +21,5 @@ Vi begynte med å bruke Long Short Term Memory (LSTM) men der fikk vi store prob
 
 Endte alltid opp med denne feilkoden. Etter mye leting virker det som det er probleremer med nyeste versjon av NumPy
 NotImplementedError: Cannot convert a symbolic Tensor (lstm_15/strided_slice:0) to a numpy array. This error may indicate that you're trying to pass a Tensor to a NumPy call, which is not supported
+
+Grunnleggende handler klassifisering om å forutsi en etikett og regresjon handler om å forutsi en mengde.
